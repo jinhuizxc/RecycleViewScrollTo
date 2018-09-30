@@ -1,0 +1,2 @@
+# RecycleViewScrollTo
+横向RecycleView实现手势监听、左右两个按钮改变RecycleView滑动距离，监听控制其滑动功能
